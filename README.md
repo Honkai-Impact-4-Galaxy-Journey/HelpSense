@@ -1,6 +1,6 @@
 # HelpSense
 
-这个仓库为反对(某个不知羞耻的插件)[https://github.com/XLittleLeft/NWAPI__HelpSense]而建立，本团队将会通过重写等一切手段尽可能复刻其所有功能
+这个仓库为反对[某个不知羞耻的插件](https://github.com/XLittleLeft/NWAPI__HelpSense)而建立，本团队将会通过重写等一切手段尽可能复刻其所有功能
 
 ## 开源协议
 
